@@ -10,5 +10,8 @@ public class JavaTest {
 		System.out.println("Changes made by another user");
 
 	}
+	public void getMessage() {
+		System.out.println("This is a message for testing");
+	}
 
 }
