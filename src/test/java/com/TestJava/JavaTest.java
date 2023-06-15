@@ -13,5 +13,9 @@ public class JavaTest {
 	public void getMessage() {
 		System.out.println("This is a message for testing");
 	}
+	
+	public void getSeconMsg() {
+		System.out.println("This is a second user message for testing");
+	}
 
 }

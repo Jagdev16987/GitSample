@@ -6,6 +6,8 @@ public class SampleClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Created class under resources package");
+		
+		System.out.println("Second User mage changes on develop branch");
 
 	}
 
